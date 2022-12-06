@@ -7,7 +7,7 @@
       "createdAt": "2022-12-04",
       "status": 1,
       "analysisDate": "2022-12-05",
-      "url": "grain-images/barley.png"
+      "url": "https://github.com/burgerG/data-control-cloud/blob/main/grain-images/barley.png"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "createdAt": "2022-12-14",
       "status": 1,
       "analysisDate": "2022-12-05",
-      "url": "grain-images/barley.png"
+      "url": "https://github.com/burgerG/data-control-cloud/blob/main/grain-images/barley.png"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "createdAt": "2022-12-03",
       "status": 1,
       "analysisDate": "2022-12-01",
-      "url": "grain-images/barley.png"
+      "url": "https://github.com/burgerG/data-control-cloud/blob/main/grain-images/barley.png"
     }
   ]
 }
