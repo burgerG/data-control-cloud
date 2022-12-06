@@ -2,6 +2,6 @@
   "samples": [
     { "id": 1, "name": "Cevada", "type": "Tipo I", "createdAt": "2022-12-04", "status": 1, "analysisDate": "2022-12-05" },
     { "id": 2, "name": "Cevada", "type": "Tipo II", "createdAt": "2022-12-14", "status": 1, "analysisDate": "2022-12-05" },
-    { "id": 3, "name": "Cevada", "type": "Tipo IV", "createdAt": "2022-12-03", "status": 1, "analysisDate": "2022-12-01" },
+    { "id": 3, "name": "Cevada", "type": "Tipo IV", "createdAt": "2022-12-03", "status": 1, "analysisDate": "2022-12-01" }
   ]
 }
