@@ -1,28 +1,14 @@
 {
-  "samples": [
-    {
-      "id": 1,
-      "name": "Cevada",
-      "type": "Tipo I",
-      "createdAt": "2022-12-04",
-      "status": 1,
-      "analysisDate": "2022-12-05"
-    },
-    {
-      "id": 2,
-      "name": "Cevada",
-      "type": "Tipo II",
-      "createdAt": "2022-12-14",
-      "status": 1,
-      "analysisDate": "2022-12-05"
-    },
-    {
-      "id": 3,
-      "name": "Cevada",
-      "type": "Tipo IV",
-      "createdAt": "2022-12-03",
-      "status": 1,
-      "analysisDate": "2022-12-01"
-    }
-  ]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
