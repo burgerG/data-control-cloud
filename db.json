@@ -6,7 +6,8 @@
       "type": "Tipo I",
       "createdAt": "2022-12-04",
       "status": 1,
-      "analysisDate": "2022-12-05"
+      "analysisDate": "2022-12-05",
+      "url": "grain-images/barley.png"
     },
     {
       "id": 2,
@@ -14,7 +15,8 @@
       "type": "Tipo II",
       "createdAt": "2022-12-14",
       "status": 1,
-      "analysisDate": "2022-12-05"
+      "analysisDate": "2022-12-05",
+      "url": "grain-images/barley.png"
     },
     {
       "id": 3,
@@ -22,7 +24,8 @@
       "type": "Tipo IV",
       "createdAt": "2022-12-03",
       "status": 1,
-      "analysisDate": "2022-12-01"
+      "analysisDate": "2022-12-01",
+      "url": "grain-images/barley.png"
     }
   ]
 }
