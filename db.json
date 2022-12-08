@@ -116,8 +116,8 @@
       "updated_at": "2022-12-07T13:04:23.721Z"
     }
   ],
-  "redis": {
-    "key": "string",
-    "value": "string"
+  "settings": {
+    "day": "Thu Dec 08 2022 16:00:02 GMT-0300 (Brasilia Standard Time)",
+    "time": "Thu Dec 08 2022 16:00:02 GMT-0300 (Brasilia Standard Time)"
   }
 }
