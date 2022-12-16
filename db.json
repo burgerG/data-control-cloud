@@ -33,32 +33,32 @@
     {
       "id": "1",
       "title": "Amostra do tipo II",
-      "user": "3",
       "grainType": "barley",
+      "user": "3",
       "createdAt": "2020-12-07T12:51:47.348Z",
       "processedAt": "2021-12-07T12:51:47.348Z"
     },
     {
       "id": "2",
       "title": "Amostra do tipo IV",
-      "user": "2",
       "grainType": "barley",
+      "user": "2",
       "createdAt": "2021-11-07T12:51:47.348Z",
       "processedAt": ""
     },
     {
       "id": "3",
       "title": "Amostra do tipo X",
-      "user": "2",
       "grainType": "barley",
+      "user": "2",
       "createdAt": "2020-12-07T12:51:47.348Z",
       "processedAt": "2022-12-07T12:51:47.348Z"
     },
     {
       "id": "4",
       "title": "Amostra do tipo III",
-      "user": "3",
       "grainType": "barley",
+      "user": "3",
       "createdAt": "2020-12-07T12:51:47.348Z",
       "processedAt": "2022-12-17T12:51:47.348Z"
     }
