@@ -63,26 +63,6 @@
       "processedAt": "2022-12-17T12:51:47.348Z"
     }
   ],
-  // "users": [
-  //   {
-  //     "id": "1",
-  //     "email": "operador@garten.com.br",
-  //     "name": "Operador",
-  //     "level": 0
-  //   },
-  //   {
-  //     "id": "2",
-  //     "email": "encarregado@garten.com.br",
-  //     "name": "Encarregado",
-  //     "level": 2
-  //   },
-  //   {
-  //     "id": "3",
-  //     "email": "garten@garten.com.br",
-  //     "name": "Garten",
-  //     "level": 3
-  //   }
-  // ],
   "segmented-grains": [
     {
       "id": "1",
